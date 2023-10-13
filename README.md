@@ -12,7 +12,7 @@ The only change made is to add a unique identifier for student_id, using 'ROW_NU
 
 ## Analysis Summary
 
-This section is a quick summary of my findings. You can find the full query and details in the [Analysis](https://github.com/stgordillo/google_data_analytics_case_study/blob/11236e367117afb9e66edc059004f178c51b0eb3/Analysis.md).
+This section is a quick summary of my findings. You can find the full query and details in the [Analysis]((https://github.com/stgordillo/Student-Performance-SQL/tree/main)).
 
 **Queries**
 * First, I checked to make sure the csv was loaded properly and to look at the information given.
