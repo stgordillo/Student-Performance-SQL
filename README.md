@@ -12,7 +12,7 @@ The only change made is to add a unique identifier for student_id, using 'ROW_NU
 
 ## Analysis Summary
 
-This section is a quick summary of my findings. You can find the full query and details in the [Analysis](https://github.com/stgordillo/Student-Performance-SQL/tree/main).
+This section is a quick summary of my findings. You can find the full query and details in the  [Analysis](https://github.com/stgordillo/Student-Performance-SQL/blob/4b6d5518e1e779aee94e8a89c852d5d88f1140c7/Analysis.sql).
 
 **Queries**
 * First, I checked to make sure the csv was loaded properly and to look at the information given.
